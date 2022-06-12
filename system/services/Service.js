@@ -59,6 +59,7 @@ class Service {
                            "creatorName": "$users.name",
                             "questionText": "$questionText",
                             "options": "$options",
+                            "totalVotes": "$totalVotes",
                         }
                     },
                 
